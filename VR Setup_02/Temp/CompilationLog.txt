@@ -1,0 +1,36 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-813d0c513d2eb4527b7109ac28dc95fd
+# Starting compiling UnityEngine.UI.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b04d3d8ae148e4833916cb72a05540cc
+# Starting compiling Oculus.Spatializer.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a8d3547341adf48dda75a097bfbff768
+# Starting compiling Unity.Timeline.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e1614bcbe95884a1d961a27c6fae7e56
+# Starting compiling Unity.TextMeshPro.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-69e777008725d4520a101dc8486bdd47
+# Starting compiling AssistantCoreSDKRuntime.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8ff1ac29288ad4aa1a602c14e5065bf5
+# Starting compiling Unity.Subsystem.Registration.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d459aba906ccd4f36b90f3e21a8fee6a
+# Starting compiling UnityEngine.SpatialTracking.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0e0b70c9f9b3f474881e6bbf1ab7cff4
+# Starting compiling Facebook.WitAI.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-192a288fb1c224b1a8f57aee494e1814
+# Starting compiling Oculus.VR.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5c2fe2d39e2a94a70af0fe173c3ec0b2
+# Starting compiling Unity.XR.Management.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1741ddb6487244cbaaf54f445cba629f
+# Starting compiling Oculus.Platform.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fef0c74ad12b84852a79c670dcb18dba
+# Starting compiling Oculus.LipSync.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-67f9e9c50783240be91deb62859934bf
+# Starting compiling UnityEngine.XR.LegacyInputHelpers.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9a3fe713c04f54d4d86e9d7704ab20e2
+# Starting compiling Oculus.AudioManager.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-043a42329a24f40859fe3e48541c5993
+# Starting compiling Unity.XR.Oculus.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bd55a025f754047de896dd0b4eac56c5
+# Starting compiling VoiceSDK.Runtime.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a3c435c5e63164ef7b1c0d347f5f7247
+# Starting compiling Assembly-CSharp.dll
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8068224c2eb93433e8d443f79c0792cf

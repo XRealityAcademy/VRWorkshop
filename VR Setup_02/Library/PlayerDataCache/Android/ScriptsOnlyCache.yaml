@@ -1,24 +1,17 @@
 ScriptsOnlyBuild:
   usedScripts:
-    Assembly-CSharp.dll:
-    - ButtonDownListener
-    - MediaPlayerImage
-    - MoviePlayerSample
-    - MoviePlayerSampleControls
     Oculus.VR.Editor.dll:
     - Assets.Oculus.VR.Editor.OVRPlatformToolSettings
     - OVRConfig
     Oculus.VR.dll:
     - OVRCameraRig
-    - OVRControllerHelper
-    - OVRGazePointer
+    - OVRDebugInfo
     - OVRHeadsetEmulator
     - OVRManager
-    - OVROverlay
-    - OVROverlayMeshGenerator
-    - OVRRaycaster
+    - OVRPlayerController
     - OVRRuntimeSettings
-    - UnityEngine.EventSystems.OVRInputModule
+    - OVRSceneSampleController
+    - OVRScreenFade
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.RiderScriptEditorData
     - Packages.Rider.Editor.UnitTesting.CallbackData
@@ -34,14 +27,8 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
-    UnityEngine.UI.dll:
-    - UnityEngine.EventSystems.EventSystem
-    - UnityEngine.UI.Button
-    - UnityEngine.UI.CanvasScaler
-    - UnityEngine.UI.Image
-    - UnityEngine.UI.Slider
   sceneClasses:
-    Assets/Oculus/SampleFramework/Usage/WidevineVideo.unity:
+    Assets/Scenes/Movement.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -60,28 +47,22 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 74
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 65
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
-    - Class: 90
-      Script: {instanceID: 0}
-    - Class: 91
-      Script: {instanceID: 0}
-    - Class: 95
-      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1620}
+      Script: {instanceID: 1946}
     - Class: 114
-      Script: {instanceID: 1860}
-    - Class: 114
-      Script: {instanceID: 1898}
-    - Class: 114
-      Script: {instanceID: 2024}
+      Script: {instanceID: 2018}
     - Class: 114
       Script: {instanceID: 2056}
     - Class: 114
@@ -89,54 +70,24 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2308}
     - Class: 114
-      Script: {instanceID: 2804}
-    - Class: 114
-      Script: {instanceID: 2906}
-    - Class: 114
-      Script: {instanceID: 2938}
-    - Class: 114
-      Script: {instanceID: 3088}
-    - Class: 114
-      Script: {instanceID: 3418}
-    - Class: 114
       Script: {instanceID: 3518}
     - Class: 114
-      Script: {instanceID: 3558}
-    - Class: 114
-      Script: {instanceID: 4638}
+      Script: {instanceID: 4462}
     - Class: 114
       Script: {instanceID: 4760}
     - Class: 114
-      Script: {instanceID: 4860}
-    - Class: 114
-      Script: {instanceID: 4948}
-    - Class: 114
-      Script: {instanceID: 5004}
+      Script: {instanceID: 4804}
     - Class: 114
       Script: {instanceID: 5584}
-    - Class: 114
-      Script: {instanceID: 5722}
     - Class: 115
       Script: {instanceID: 0}
-    - Class: 137
+    - Class: 143
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
     - Class: 213
-      Script: {instanceID: 0}
-    - Class: 222
-      Script: {instanceID: 0}
-    - Class: 223
-      Script: {instanceID: 0}
-    - Class: 224
-      Script: {instanceID: 0}
-    - Class: 258
-      Script: {instanceID: 0}
-    - Class: 328
-      Script: {instanceID: 0}
-    - Class: 850595691
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -2037,6 +1988,6 @@ ScriptsOnlyBuild:
     className: TrackSegment
   platform: 13
   scenePathNames:
-  - Assets/Oculus/SampleFramework/Usage/WidevineVideo.unity
+  - Assets/Scenes/Movement.unity
   playerPath: /Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR
     Workshop/VRWorkshop/VR Setup_02/Test_v3.apk
