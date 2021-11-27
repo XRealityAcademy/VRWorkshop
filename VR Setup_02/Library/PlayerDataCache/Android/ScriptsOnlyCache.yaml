@@ -1,11 +1,16 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp.dll:
+    - OVRTouchSample.Hand
+    - OVRTouchSample.HandPose
     Oculus.VR.Editor.dll:
     - Assets.Oculus.VR.Editor.OVRPlatformToolSettings
     - OVRConfig
     Oculus.VR.dll:
     - OVRCameraRig
     - OVRDebugInfo
+    - OVRGrabbable
+    - OVRGrabber
     - OVRHeadsetEmulator
     - OVRManager
     - OVRPlayerController
@@ -28,7 +33,7 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
   sceneClasses:
-    Assets/Scenes/Movement.unity:
+    Assets/Scenes/Grab_Teleporting.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -51,9 +56,17 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -70,7 +83,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2308}
     - Class: 114
+      Script: {instanceID: 2582}
+    - Class: 114
+      Script: {instanceID: 3070}
+    - Class: 114
       Script: {instanceID: 3518}
+    - Class: 114
+      Script: {instanceID: 4094}
+    - Class: 114
+      Script: {instanceID: 4286}
     - Class: 114
       Script: {instanceID: 4462}
     - Class: 114
@@ -80,6 +101,12 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 5584}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 137
       Script: {instanceID: 0}
     - Class: 143
       Script: {instanceID: 0}
@@ -1988,6 +2015,6 @@ ScriptsOnlyBuild:
     className: TrackSegment
   platform: 13
   scenePathNames:
-  - Assets/Scenes/Movement.unity
+  - Assets/Scenes/Grab_Teleporting.unity
   playerPath: /Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR
     Workshop/VRWorkshop/VR Setup_02/Test_v3.apk
