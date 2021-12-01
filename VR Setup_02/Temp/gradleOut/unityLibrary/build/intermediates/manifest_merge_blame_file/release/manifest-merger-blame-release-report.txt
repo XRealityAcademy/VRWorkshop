@@ -150,14 +150,14 @@
 81-->/Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR Workshop/VRWorkshop/VR Setup_02/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:5-101
 82            android:name="unity.build-id"
 82-->/Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR Workshop/VRWorkshop/VR Setup_02/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:16-45
-83            android:value="6c56be1d-8212-4ef9-a95d-93f7e1a43354" />
+83            android:value="9c599158-c02b-4e6a-bf2f-bfae3fe68c44" />
 83-->/Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR Workshop/VRWorkshop/VR Setup_02/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:46-98
 84        <meta-data
-84-->/Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR Workshop/VRWorkshop/VR Setup_02/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:5-88
+84-->/Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR Workshop/VRWorkshop/VR Setup_02/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:5-87
 85            android:name="com.oculus.handtracking.frequency"
 85-->/Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR Workshop/VRWorkshop/VR Setup_02/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:16-64
-86            android:value="HIGH" />
-86-->/Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR Workshop/VRWorkshop/VR Setup_02/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:65-85
+86            android:value="LOW" />
+86-->/Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR Workshop/VRWorkshop/VR Setup_02/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:65-84
 87        <meta-data
 87-->/Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR Workshop/VRWorkshop/VR Setup_02/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:5-97
 88            android:name="com.samsung.android.vr.application.mode"

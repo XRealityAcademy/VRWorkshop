@@ -87,10 +87,10 @@
             android:value="portrait|landscape" />
         <meta-data
             android:name="unity.build-id"
-            android:value="6c56be1d-8212-4ef9-a95d-93f7e1a43354" />
+            android:value="9c599158-c02b-4e6a-bf2f-bfae3fe68c44" />
         <meta-data
             android:name="com.oculus.handtracking.frequency"
-            android:value="HIGH" />
+            android:value="LOW" />
         <meta-data
             android:name="com.samsung.android.vr.application.mode"
             android:value="vr_only" />
