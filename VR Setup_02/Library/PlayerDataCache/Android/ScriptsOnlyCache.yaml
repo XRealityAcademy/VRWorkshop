@@ -1,32 +1,10 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - CharacterCameraConstraint
-    - CharacterCapsule
-    - LocomotionController
-    - LocomotionTeleport
     - OVRTouchSample.Hand
     - OVRTouchSample.HandPose
-    - OculusSampleFramework.DistanceGrabbable
-    - OculusSampleFramework.DistanceGrabber
-    - OculusSampleFramework.DistanceGrabberSample
-    - OculusSampleFramework.GrabManager
-    - SimpleCapsuleWithStickMovement
-    - TeleportAimHandlerLaser
-    - TeleportAimHandlerParabolic
-    - TeleportAimVisualLaser
-    - TeleportDestination
-    - TeleportInputHandlerHMD
-    - TeleportInputHandlerTouch
-    - TeleportOrientationHandler360
-    - TeleportOrientationHandlerHMD
-    - TeleportOrientationHandlerThumbstick
-    - TeleportTargetHandlerNavMesh
-    - TeleportTargetHandlerNode
-    - TeleportTargetHandlerPhysical
-    - TeleportTransitionBlink
-    - TeleportTransitionInstant
-    - TeleportTransitionWarp
+    Oculus.Spatializer.dll:
+    - ONSPSettings
     Oculus.VR.Editor.dll:
     - Assets.Oculus.VR.Editor.OVRPlatformToolSettings
     - OVRConfig
@@ -43,14 +21,11 @@ ScriptsOnlyBuild:
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.RiderScriptEditorData
     - Packages.Rider.Editor.UnitTesting.CallbackData
-    Unity.TextMeshPro.Editor.dll:
-    - TMPro.EditorUtilities.TMPro_FontAssetCreatorWindow
     Unity.TextMeshPro.dll:
     - TMPro.TMP_FontAsset
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
-    - TMPro.TextMeshProUGUI
     Unity.XR.Management.Editor.dll:
     - UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
     Unity.XR.Management.dll:
@@ -63,16 +38,8 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
-    UnityEngine.UI.dll:
-    - UnityEngine.EventSystems.EventSystem
-    - UnityEngine.EventSystems.StandaloneInputModule
-    - UnityEngine.UI.Button
-    - UnityEngine.UI.CanvasScaler
-    - UnityEngine.UI.GraphicRaycaster
-    - UnityEngine.UI.HorizontalLayoutGroup
-    - UnityEngine.UI.Image
   sceneClasses:
-    Assets/Scenes/Distant Grab_3.unity:
+    Assets/Scenes/Movement_Level_1_Demo.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -116,14 +83,6 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1648}
-    - Class: 114
-      Script: {instanceID: 1670}
-    - Class: 114
-      Script: {instanceID: 1674}
-    - Class: 114
-      Script: {instanceID: 1932}
-    - Class: 114
       Script: {instanceID: 1978}
     - Class: 114
       Script: {instanceID: 2034}
@@ -140,82 +99,26 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2616}
     - Class: 114
-      Script: {instanceID: 2838}
-    - Class: 114
-      Script: {instanceID: 2840}
-    - Class: 114
-      Script: {instanceID: 2956}
-    - Class: 114
-      Script: {instanceID: 2972}
-    - Class: 114
-      Script: {instanceID: 3026}
-    - Class: 114
-      Script: {instanceID: 3078}
-    - Class: 114
       Script: {instanceID: 3104}
-    - Class: 114
-      Script: {instanceID: 3134}
-    - Class: 114
-      Script: {instanceID: 3204}
-    - Class: 114
-      Script: {instanceID: 3230}
-    - Class: 114
-      Script: {instanceID: 3336}
-    - Class: 114
-      Script: {instanceID: 3386}
-    - Class: 114
-      Script: {instanceID: 3430}
-    - Class: 114
-      Script: {instanceID: 3472}
-    - Class: 114
-      Script: {instanceID: 3502}
     - Class: 114
       Script: {instanceID: 3554}
     - Class: 114
-      Script: {instanceID: 3594}
-    - Class: 114
-      Script: {instanceID: 3632}
-    - Class: 114
-      Script: {instanceID: 3680}
-    - Class: 114
-      Script: {instanceID: 3874}
-    - Class: 114
-      Script: {instanceID: 4118}
-    - Class: 114
       Script: {instanceID: 4334}
     - Class: 114
-      Script: {instanceID: 4420}
-    - Class: 114
       Script: {instanceID: 4510}
-    - Class: 114
-      Script: {instanceID: 4626}
-    - Class: 114
-      Script: {instanceID: 4640}
-    - Class: 114
-      Script: {instanceID: 4652}
-    - Class: 114
-      Script: {instanceID: 4706}
     - Class: 114
       Script: {instanceID: 4808}
     - Class: 114
       Script: {instanceID: 4852}
     - Class: 114
-      Script: {instanceID: 4862}
-    - Class: 114
       Script: {instanceID: 4950}
-    - Class: 114
-      Script: {instanceID: 5096}
     - Class: 114
       Script: {instanceID: 5336}
     - Class: 114
-      Script: {instanceID: 5574}
+      Script: {instanceID: 5626}
     - Class: 114
-      Script: {instanceID: 5646}
-    - Class: 114
-      Script: {instanceID: 5874}
+      Script: {instanceID: 5648}
     - Class: 115
-      Script: {instanceID: 0}
-    - Class: 120
       Script: {instanceID: 0}
     - Class: 128
       Script: {instanceID: 0}
@@ -232,12 +135,6 @@ ScriptsOnlyBuild:
     - Class: 196
       Script: {instanceID: 0}
     - Class: 213
-      Script: {instanceID: 0}
-    - Class: 222
-      Script: {instanceID: 0}
-    - Class: 223
-      Script: {instanceID: 0}
-    - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -2012,6 +1909,12 @@ ScriptsOnlyBuild:
     className: P2PNetworkBall
   - hash:
       serializedVersion: 2
+      Hash: 4c969f74ffaf1b25ecab010e4570bcb5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FollowHand
+  - hash:
+      serializedVersion: 2
       Hash: c1313d723d19b50c00b55c8ce726b990
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -2174,6 +2077,6 @@ ScriptsOnlyBuild:
     className: TrackSegment
   platform: 13
   scenePathNames:
-  - Assets/Scenes/Distant Grab_3.unity
+  - Assets/Scenes/Movement_Level_1_Demo.unity
   playerPath: /Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR
     Workshop/VRWorkshop/VR Setup_02/Test_v3.apk
