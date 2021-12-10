@@ -10,7 +10,7 @@ public class scale : MonoBehaviour
 
     public Vector2 bottomCorners;
 
-    
+    public GameObject container; 
     private void OnValidate()
     {
         var scaleVector = Vector2.zero - topCorners - bottomCorners;
@@ -43,7 +43,7 @@ public class scale : MonoBehaviour
         bottomCorners = Vector2.zero; 
     }
 
-    public GameObject container; 
+
     private void ScaleTheQuadWithNewAnchorPoint(Vector3 anchorPoint,float scaleBy)
     {
         //transform.localScale += Vector3.one * scaleBy; 
