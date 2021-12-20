@@ -19,7 +19,7 @@ public class InventorySystem : MonoBehaviour
     {
       if (m_itemDictionary.TryGetValue(referenceData, out InventoryItem value))
          {
-            value.AddtoStack();
+           // value.AddtoStack();
          }
       else
       {
