@@ -2,11 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.UI;
+
+[ExecuteInEditMode]
 
 public class Inventory : MonoBehaviour
 {
     public GameObject inventoryUI;
+
+    public bool inventoryShown;
     // Start is called before the first frame update
     void Start()
     {
@@ -16,10 +19,17 @@ public class Inventory : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(OVRInput.GetDown(OVRInput.Button.Three))
+        if (OVRInput.Get(OVRInput.Button.Three))
         {
-            //Inventory UI Shows up
-            inventoryUI.SetActive(true);
+            inventoryShown = !inventoryShown;
+            
+            if(inventoryShown)
+                inventoryUI.SetActive(true);
+            else if(!inventoryShown)
+                inventoryUI.SetActive(false);
         }
+        
+        
+
     }
 }

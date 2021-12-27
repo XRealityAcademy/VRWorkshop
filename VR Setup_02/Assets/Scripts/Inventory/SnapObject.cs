@@ -33,7 +33,7 @@ public class SnapObject : MonoBehaviour
         //Set ObjectSnapped equal to the Snapped boolean from SnapToLocation
         objectSnapped = _snapToLocation.snapped;
 
-        //Set object Rigidbody to be Kinematic after it has been snapped into position
+       //Set object Rigidbody to be Kinematic after it has been snapped into position
         //Set the object to be the child of the Inventory object after it has been snapped
         //Set isSnapped variable to true to alert the InventoryGoalAchieve script
         if (objectSnapped == true)

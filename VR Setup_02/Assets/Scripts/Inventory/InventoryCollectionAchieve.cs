@@ -8,9 +8,9 @@ public class InventoryCollectionAchieve : MonoBehaviour
     public GameObject[] InventoryItems;
 
     public GameObject goalAcheivePanel;
-    //Used to check if all parts have been added to the rocket
+    //Used to check if all parts have been added to the inventory
     private bool partAdded;
-    //Flag to ensure the rocket only launches once
+    //Flag to ensure the items being collected in the inventory
     private bool launched = false;
     
 

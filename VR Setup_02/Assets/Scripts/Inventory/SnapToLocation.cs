@@ -8,7 +8,7 @@ public class SnapToLocation : MonoBehaviour
     
     //boolean variable used to determine if the object is currently being held by the player
     private bool grabbed;
-    //Return true when the object is within the SnapZone radius
+    //Return true when the object is within the SnapZone zone
     private bool insideSnapZone;
     //Return true when the object has had it's location updated
     public bool snapped;
@@ -41,7 +41,7 @@ public class SnapToLocation : MonoBehaviour
         }
     }
     
-    //Check if the player has released the object AND if the object is within the SanpZone radius
+    //Check if the player has released the object AND if the object is within the SanpZone 
     //If both are true, sets the object location and rotation to the desired snap coordinates
     //Sets the public boolean Snapped to true for reference by SnapObject script
     void SnapObject()
