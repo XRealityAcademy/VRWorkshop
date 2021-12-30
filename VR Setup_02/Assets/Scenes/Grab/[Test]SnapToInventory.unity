@@ -9407,7 +9407,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CameraRig: {fileID: 7283642863253109700}
   CharacterController: {fileID: 7283642862825548824}
-  PlayerController: {fileID: 7283642862825548807}
+  PlayerController: {fileID: 0}
 --- !u!114 &7283642861559868482
 MonoBehaviour:
   m_ObjectHideFlags: 0
