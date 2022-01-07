@@ -1,0 +1,274 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.262400)
+
+newmtl enduit_004_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_004.jpg
+
+newmtl parquet_022_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd parquet_022.jpg
+
+newmtl porte_029___mat_bois086sg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd bois_086.jpg
+
+newmtl porte_028___mat_bois086sg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd bois_086.jpg
+
+newmtl pack_004_salon_002_globe___attache
+Kd 0.7686269879341125 0.6235290169715881 0.207843005657196
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_004_salon_002_globe___globe
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_mapmonde.jpg
+
+newmtl pack_004_salon_002_globe___support
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois_marron.jpg
+
+newmtl peluche_girafe______default
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd girafe.jpg
+
+newmtl peluche_girafe______default2
+Kd 1 1 1
+Ks 0.09000000357627869 0.09000000357627869 0.09000000357627869
+d 1
+illum 1
+map_Kd tex_bois_noir.jpg
+
+newmtl peluche_girafe___blinn1sg
+Kd 0 0 0
+Ks 1 1 1
+d 1
+illum 1
+
+newmtl bleu_005_Wall_Entity_Material
+Kd 0.1803921610116959 0.572549045085907 0.6627451181411743
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl enduit_066_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_066.jpg
+
+newmtl enduit_004_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_004.jpg
+
+newmtl jaune_009_Wall_Entity_Material
+Kd 1 0.929411768913269 0.4980392158031464
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl rose_006_Wall_Entity_Material
+Kd 0.9490196108818054 0.6352941393852234 0.7333333492279053
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl orange_008_Wall_Entity_Material
+Kd 0.8235294222831726 0.4627451002597809 0.1607843190431595
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl bleu_009_Wall_Entity_Material
+Kd 0 0.3764705955982208 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl bleu_004_Wall_Entity_Material
+Kd 0.5568627715110779 0.6549019813537598 0.7764706015586853
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl rouge_007_Wall_Entity_Material
+Kd 0.9333333373069763 0.01568627543747425 0.01960784383118153
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl vert_005_Wall_Entity_Material
+Kd 0.5058823823928833 0.7254902124404907 0.196078434586525
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl bleu_007_Wall_Entity_Material
+Kd 0.1607843190431595 0.572549045085907 0.7882353067398071
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl ocre_001_Wall_Entity_Material
+Kd 0.729411780834198 0.4941176474094391 0.2117647081613541
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl jaune_008_Wall_Entity_Material
+Kd 1 0.9411764740943909 0
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl rouge_002_Wall_Entity_Material
+Kd 0.4862745106220245 0.09019608050584793 0.1450980454683304
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl enduit_039_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_039.jpg
+
+newmtl vert_009_Wall_Entity_Material
+Kd 0.3254902064800262 0.321568638086319 0
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl orange_006_Wall_Entity_Material
+Kd 1 0.686274528503418 0.007843137718737125
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl ground_herbe_1_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd ground_herbe_1.jpg
+
+newmtl rose_003_Wall_Entity_Material
+Kd 0.8392156958580017 0.7098039388656616 0.7450980544090271
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl rose_010_Wall_Entity_Material
+Kd 0.8901960849761963 0.1411764770746231 0.5176470875740051
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl noir_001_Wall_Entity_Material
+Kd 0 0 0
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl ocre_002_Wall_Entity_Material
+Kd 0.7843137383460999 0.6274510025978088 0.3960784375667572
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl vert_010_Wall_Entity_Material
+Kd 0.1411764770746231 0.6549019813537598 0.09803921729326248
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl rose_002_Wall_Entity_Material
+Kd 0.658823549747467 0.5764706134796143 0.5960784554481506
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl vert_006_Wall_Entity_Material
+Kd 0.7058823704719543 0.8039215803146362 0.3450980484485626
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl rouge_003_Wall_Entity_Material
+Kd 0.6235294342041016 0.07450980693101883 0.1882352977991104
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl orange_004_Wall_Entity_Material
+Kd 0.9176470637321472 0.3921568691730499 0.04313725605607033
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl enduit_069_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_069.jpg
+

@@ -1,0 +1,94 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR Workshop/VRWorkshop/VR Setup_02
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61414
+Successfully changed project path to: /Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR Workshop/VRWorkshop/VR Setup_02
+/Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR Workshop/VRWorkshop/VR Setup_02
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 92.15 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 6.35 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path /Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/kuanyiwu/Documents/GitHub/XReality/Workshops/Game Projects/VR Workshop/VRWorkshop/VR Setup_02/Assets
+GfxDevice: creating device client; threaded=0
+2022-01-03 19:32:21.973 Unity[7746:346977] Color LCD preferred device: AMD Radeon Pro Vega 20 (high power)
+2022-01-03 19:32:21.974 Unity[7746:346977] Metal devices available: 2
+2022-01-03 19:32:21.974 Unity[7746:346977] 0: AMD Radeon Pro Vega 20 (high power)
+2022-01-03 19:32:21.974 Unity[7746:346977] 1: Intel(R) UHD Graphics 630 (low power)
+2022-01-03 19:32:21.974 Unity[7746:346977] Using device AMD Radeon Pro Vega 20 (high power)
+Initializing Metal device caps: AMD Radeon Pro Vega 20
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = '/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56746
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000873 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 77.03 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.58 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.148 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.022840 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 106.33 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.96 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.893 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launching external process: /Users/kuanyiwu/Documents/GitHub/2020.3.13f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.85 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.60 ms.
+Unloading 3015 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 226.4 MB.
+System memory in use after: 226.2 MB.
+
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 3436.
+Total: 2.965550 ms (FindLiveObjects: 0.388477 ms CreateObjectMapping: 0.141172 ms MarkObjects: 2.060678 ms  DeleteObjects: 0.373444 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/glove/source
+  artifactKey: Guid(633bf4d5be83440a09ddacb5c77323cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/glove/source using Guid(633bf4d5be83440a09ddacb5c77323cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e8819a5ebb22b7837cf79b4ad30d2d') in 0.006952 seconds 
+  Import took 0.012129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Prefabs/glove/source/model.zip
+  artifactKey: Guid(8202540af9a094bc6b5b2870c0d28035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/glove/source/model.zip using Guid(8202540af9a094bc6b5b2870c0d28035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29f90486cd8e795d9ef8dc2ad639af34') in 2.122237 seconds 
+  Import took 2.127695 seconds .
+
